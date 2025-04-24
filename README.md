@@ -1,6 +1,6 @@
 # 👩🏻‍💻 David Granado
 
-**`FullStack Developer`**
+**`Backend Developer`**
 
 Hello! My name is David Granado Duque Gonçalves, I am 20 years old and I'm from Nova Iguaçu - RJ.
 I'm a Computer Science student at UVA and I enjoy working with Back-End development.
