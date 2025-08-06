@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Hello! My name is David Granado Duque Gonçalves, I am 20 years old and I'm from Nova Iguaçu - RJ.
+Hello! My name is David Granado Duque Gonçalves, I am 22 years old and I'm from Nova Iguaçu - RJ.
 I'm a Computer Science (bachelor's degree) student at UVA and I enjoy working with Back-End development.
 I have knowledge in several programming languages and I'm always looking to grow and learn more.
 I don't have any projects here on GitHub at the moment, but I plan to add them in the future.
